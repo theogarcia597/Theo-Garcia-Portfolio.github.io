@@ -884,25 +884,25 @@ a:link {
     position: absolute;
     left: 30px;
     top: 1004px;
-    font-size: 13px;
+    font-size: 11px;
 
   }
 
   #Pdp {
-    width: 200px;
-    height: 200px;
+    width: 150px;
+    height: 150px;
     position: absolute;
-    left: 90%;
-    transform: translateX(-90%) ;
+    left: 94%;
+    transform: translateX(-94%) ;
  
 
-    top: 1250px;
+    top: 1270px;
   }
 
   #ButtonTelecharger {
 
     top: 960px;
-    left: 40px;
+    left: 30px;
   }
 
   #Portfolio {
