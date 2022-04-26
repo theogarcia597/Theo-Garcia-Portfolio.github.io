@@ -883,22 +883,26 @@ a:link {
 
     position: absolute;
     left: 30px;
-    top: 1054px;
+    top: 1004px;
+    font-size: 13px;
 
   }
 
   #Pdp {
-    width: 300px;
-    height: 300px;
-    left: 50px;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left: 90%;
+    transform: translateX(-90%) ;
+ 
 
-    top: 850px;
+    top: 1250px;
   }
 
   #ButtonTelecharger {
 
-    top: 900px;
-    left: 105px;
+    top: 960px;
+    left: 40px;
   }
 
   #Portfolio {
